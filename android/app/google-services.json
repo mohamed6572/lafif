@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449652474720",
+    "project_id": "lafif-13ada",
+    "storage_bucket": "lafif-13ada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449652474720:android:4d1d64eea9770b603e1405",
+        "android_client_info": {
+          "package_name": "com.example.lafif_fyp_cs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTmAq7PLqEZOr0symgYFgXoPsp6RyrrL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
